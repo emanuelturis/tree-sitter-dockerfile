@@ -10,5 +10,6 @@ target
 /*.so*
 *.o
 /bindings/c/*.h
+!/bindings/c/tree-sitter-dockerfile.h
 /bindings/c/tree-sitter-*.pc
 /.build
